@@ -1,6 +1,6 @@
-<p align="center">TUGAS UAS WEB LANJUTAN</p>
-<p align="center">LAREVEL 7</p>
-<p align="center">D2 1755201229 LUKY PURDIONO</p>
+## TUGAS UAS WEB LANJUTAN
+## LAREVEL 7
+## D2 1755201229 LUKY PURDIONO
 
 
 ## Fitur
